@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohsenr2040
 - 👀 I’m interested in coding and learnig new thech in this field.
-- 🌱 I’m currently learning web methodologies.also libraries that are used in EFCore. 
+- 🌱 I’m currently learning web methodologies ,also libraries that are used in EFCore. 
 - 💞️ I’m looking to collaborate on a team or an enterprise who has good opportunities and makes me motivated. 
 - 📫 To reach me : mohsenr2020@gmail.com , https://www.linkedin.com/in/mohsen-rezaei-932140151
 
