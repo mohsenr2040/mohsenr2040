@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @mohsenr2040
-- 👀 I’m interested in coding and learnig new tech in this field.
-- 🌱 I’m currently learning web methodologies ,also libraries that are used in EFCore. 
-- 💞️ I’m looking to collaborating on a team or an enterprise that has good opportunities and makes me motivated. 
+Software engineer with 7+ years of experience in software design and development and 4+ years of experience in IT Support.
+As a software developer I'm skilled in Data Analysis, Relational Databases and NoSQL Databases, Architectures like Microservice and Clean, Docker and Git. Also I've worked with .NET Core and C# and I’m familiar with JavaScript .
+As an IT Support Specialist I did technical support to staff and troubleshoot computer problems
+and provided technical assistance relating to developed applications.
+I’m always interested in learning to improve my skills, and motivated to provide clients with user-friendly applications.
+I'm looking forward to meeting and cooperating with the new team, so feel free to connect!
 - 📫 To reach me : mohsenr2040@yahoo.com , https://www.linkedin.com/in/mohsenrezaei2040
 
 <!---
