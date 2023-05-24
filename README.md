@@ -1,4 +1,4 @@
-Software engineer with 7+ years of experience in software design and development and 4+ years of experience in IT Support.
+Software engineer with 10+ years of experience in software development and IT Specialist.
 - As a software developer I'm skilled in Data Analysis, Relational Databases and NoSQL Databases, Architectures like Microservice and Clean, Docker and Git. Also I've worked with .NET Core and C# and I’m familiar with JavaScript .
 - As an IT Support Specialist I did technical support to staff and troubleshoot computer problems
 and provided technical assistance relating to developed applications.
