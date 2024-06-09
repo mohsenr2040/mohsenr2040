@@ -4,7 +4,7 @@ Software engineer with 10+ years of experience in software development and IT Sp
 and provided technical assistance relating to developed applications.
 I’m always interested in learning to improve my skills, and motivated to provide clients with user-friendly applications.
 - I'm looking forward to meeting and cooperating with the new team, so feel free to connect!
-- 📫 To reach me : mohsenr2040@yahoo.com , https://www.linkedin.com/in/mohsenrezaei2040
+- 📫 To reach me : mohsenr2040@yahoo.com 
 
 <!---
 mohsenr2040/mohsenr2040 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
